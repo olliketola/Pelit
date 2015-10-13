@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Tasohyppely\2d testejä\Assets\koodit\kamera_liike.cs">
+    <Files>
+      <File FileName="..\Tasohyppely\2d testejä\Assets\koodit\Hero_liike.cs" Line="14" Column="26" />
+      <File FileName="..\Tasohyppely\2d testejä\Assets\koodit\kamera_liike.cs" Line="127" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

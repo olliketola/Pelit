@@ -1,0 +1,31 @@
+﻿<xapCache source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Bin\ARM\Release\Flipperi_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30-Oct-14 6:14:16 PM">
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\obj\ARM\Release\Flipperi.dll" archivePath="Flipperi.dll" lastWriteTime="30-Oct-14 6:14:05 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\mainData" archivePath="Data\mainData" lastWriteTime="30-Oct-14 6:13:24 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="30-Oct-14 6:13:24 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="08-Aug-14 11:51:48 AM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="30-Oct-14 6:13:24 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="30-Oct-14 6:13:24 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30-Oct-14 6:14:09 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Bin\ARM\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10-Jun-14 5:46:22 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assembly-CSharp-firstpass.dll" archivePath="Assembly-CSharp-firstpass.dll" lastWriteTime="30-Oct-14 6:13:43 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assembly-UnityScript-firstpass.dll" archivePath="Assembly-UnityScript-firstpass.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Boo.Lang.dll" archivePath="Boo.Lang.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Players\ARM\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="08-Aug-14 11:59:08 AM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Players\ARM\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="08-Aug-14 12:02:24 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Players\ARM\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="08-Aug-14 11:59:08 AM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="30-Oct-14 6:13:44 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Players\ARM\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="08-Aug-14 11:59:08 AM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Players\ARM\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="08-Aug-14 12:02:42 PM" />
+  <file source="C:\Users\olli\Desktop\Pelidemot\Flipperi\WP8\Flipperi\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30-Oct-14 6:14:11 PM" />
+</xapCache>

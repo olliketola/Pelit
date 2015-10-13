@@ -1,0 +1,33 @@
+﻿<xapCache source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Bin\ARM\Release\tasohyppely_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30-Oct-14 10:09:45 PM">
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\obj\ARM\Release\tasohyppely.dll" archivePath="tasohyppely.dll" lastWriteTime="30-Oct-14 10:09:09 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\level0" archivePath="Data\level0" lastWriteTime="30-Oct-14 10:08:28 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\mainData" archivePath="Data\mainData" lastWriteTime="30-Oct-14 10:08:30 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="30-Oct-14 10:08:51 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="30-Oct-14 10:08:30 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="26-Sep-14 7:04:06 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="30-Oct-14 10:08:30 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="30-Oct-14 10:08:30 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Data\sharedassets1.assets" archivePath="Data\sharedassets1.assets" lastWriteTime="30-Oct-14 10:08:30 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30-Oct-14 10:09:12 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Bin\ARM\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12-Jun-14 12:09:52 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assembly-CSharp-firstpass.dll" archivePath="Assembly-CSharp-firstpass.dll" lastWriteTime="30-Oct-14 10:08:49 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="30-Oct-14 10:08:50 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assembly-UnityScript-firstpass.dll" archivePath="Assembly-UnityScript-firstpass.dll" lastWriteTime="30-Oct-14 10:08:50 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="30-Oct-14 10:08:50 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Boo.Lang.dll" archivePath="Boo.Lang.dll" lastWriteTime="30-Oct-14 10:08:50 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\Players\ARM\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="08-Oct-14 11:18:58 AM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="30-Oct-14 10:08:51 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\Players\ARM\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="08-Oct-14 11:25:02 AM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\Players\ARM\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="08-Oct-14 11:19:00 AM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="30-Oct-14 10:08:51 PM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\Players\ARM\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="08-Oct-14 11:18:58 AM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\Players\ARM\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="08-Oct-14 11:25:56 AM" />
+  <file source="C:\Users\olli\Desktop\demot\Tasohyppely\2d testejä\WP8\tasohyppely\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30-Oct-14 10:09:40 PM" />
+</xapCache>
